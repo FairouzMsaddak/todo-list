@@ -1,5 +1,5 @@
 # TodoList
-
+this project represent a todo-list with mvvm architecture
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 ## Development server
